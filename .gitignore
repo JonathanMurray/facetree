@@ -1,0 +1,7 @@
+*~
+*.log
+cypherscripts/neo4j-shell
+node_modules/
+public/cache.appcache
+public/images/
+
